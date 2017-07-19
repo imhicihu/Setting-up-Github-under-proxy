@@ -1,24 +1,25 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repo describes some directives and paths to execute to run Github desktop app inside a proxy environment.
 
 ### What is this repository for? ###
 
 * Quick summary
 * Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
 * Summary of set up
+     * Mostly all the steps done we're done in Mac OS X El Capitan
 * Configuration
+     * Check the issues 
 * Dependencies
-    * Github desktop app
-	* Xcode comand line
-	* GPG (optional)
-* Database configuration
+     * [Github desktop app](https://desktop.github.com/)
+   	 * Xcode comand line
+	 * [GPG](https://www.gnupg.org/download/) (optional)
 * How to run tests
 * Deployment instructions
+     * Check the issues
 
 ### Contribution guidelines ###
 
