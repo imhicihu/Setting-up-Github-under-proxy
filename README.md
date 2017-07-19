@@ -15,8 +15,8 @@ This repo describes some directives and paths to execute to run Github desktop a
      * Check the issues 
 * Dependencies
      * [Github desktop app](https://desktop.github.com/)
-   	 * Xcode comand line
-	 * [GPG](https://www.gnupg.org/download/) (optional)
+   	 * [Xcode comand line](https://developer.apple.com/download/more/)
+	 * [GPG](https://www.gnupg.org/download/) (_optional_)
 * How to run tests
 * Deployment instructions
      * Check the issues
