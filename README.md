@@ -12,7 +12,7 @@ This repo describes some directives and paths to execute to run Github desktop a
 * Summary of set up
      * Mostly all the steps done we're done in Mac OS X El Capitan
 * Configuration
-     * Check the issues 
+     * Check the [issues](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/issues) 
 * Dependencies
      * [Github desktop app](https://desktop.github.com/)
    	 * [Xcode comand line](https://developer.apple.com/download/more/)
