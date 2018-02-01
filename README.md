@@ -30,4 +30,4 @@ This repo describes some directives and paths to execute to run Github desktop a
 ### Who do I talk to? ###
 
 * Repo owner or admin
-* Other community or team contact
+     - Contact `imhicihu at gmail dot com`
