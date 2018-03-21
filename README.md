@@ -10,7 +10,7 @@ This repo describes some directives and paths to execute to run Github desktop a
 ### How do I get set up? ###
 
 * Summary of set up
-     * Mostly all the steps done we're done in Mac OS X El Capitan
+     * Mostly of the steps were done on MacOSX El Capitan environment. Update: they were replicated on MacOSX Sierra with optimum result.
 * Configuration
      * Check the [issues](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/issues) 
 * Dependencies
