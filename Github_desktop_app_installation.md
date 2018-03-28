@@ -7,12 +7,12 @@
 * install the desktop client
 * before initial run
 	- on Mac: open Terminal
+		- in some cases, prompts to install [Xcode command line developer tools](https://developer.apple.com/download/more/): install it
 	- on Windows: 
-		- press `Win-R`, type `cmd` and press `Enter` to open a Command Prompt session
-		- click `Start`-) `Program Files` -) `Accessories` -) `Command Prompt`
+		- press `Win-R`, type `cmd` and press `Enter` to open a command prompt session
+		- click `Start`-> `Program Files` -> `Accessories` -> `Command Prompt`
 		- click the `Start` button and type `cmd`
-		- In some cases, you must choose `Run as Administrator` and click `Yes` to open Command Prompt with elevated privileges
+		- In some cases, you must choose `Run as Administrator` and click `Yes` to open command prompt session ⟶with elevated privileges
 	- on Linux: open Terminal
 * Type: `git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080`
-* In some cases, prompts for install [Xcode command line developer tools](https://developer.apple.com/download/more/: install it
 * change parameters accordingly to the "real thing"
