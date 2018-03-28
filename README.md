@@ -2,10 +2,13 @@
 
 This repo describes some steps and paths to execute [Github desktop app](https://desktop.github.com/) inside a proxy environment.
 
+
 ### What is this repository for? ###
 
 * Quick summary
      * Github desktop application running under a proxy server
+     ![a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png](https://bitbucket.org/repo/rp8ox5M/images/2788388409-a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png)
+
 
 ### How do I get set up? ###
 
