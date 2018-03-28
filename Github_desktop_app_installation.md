@@ -12,7 +12,7 @@
 		- press `Win-R`, type `cmd` and press `Enter` to open a command prompt session
 		- click `Start`-> `Program Files` -> `Accessories` -> `Command Prompt`
 		- click the `Start` button and type `cmd`
-		- In some cases, you must choose `Run as Administrator` and click `Yes` to open command prompt session ⟶with elevated privileges
+		- In some cases, you must choose `Run as Administrator` and click `Yes` to open command prompt session with elevated privileges
 	- on Linux: open Terminal
 * Type: `git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080`
 * change parameters accordingly to the "real thing"
