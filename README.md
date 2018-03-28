@@ -22,7 +22,7 @@ This repo describes some steps and paths to execute [Github desktop app](https:/
    	 * [Xcode comand line](https://developer.apple.com/download/more/)
 	 * [GPG](https://www.gnupg.org/download/) (_optional_)
 * How to run tests
-     * Follow this [steps](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/issues/4/workflow-procedure-to-install-github)
+     * Follow this [steps](/Github_desktop_app_installation.md)
 * Deployment instructions
      * Check the [issues](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/issues)
 
