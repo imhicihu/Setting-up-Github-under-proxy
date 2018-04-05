@@ -2,7 +2,7 @@
 * download the desktop client from [Github](https://desktop.github.com/)
 	- on [Mac](https://desktop.github.com/)
 	- on [Windows](https://desktop.github.com/)
-	- on [Linux](https://aur.archlinux.org/packages/github-desktop/
+	- on [Linux](https://aur.archlinux.org/packages/github-desktop/)
 * verify that you meet the minimal requirements: on Mac OS X 10.9 or later; on Windows Vista or later; on Linux verify this [dependencies](https://aur.archlinux.org/packages/github-desktop/)
 * install the desktop client
 * before initial run
