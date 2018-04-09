@@ -6,7 +6,8 @@
 * verify that you meet the minimal requirements: on Mac OS X 10.9 or later; on Windows Vista or later; on Linux verify this [dependencies](https://aur.archlinux.org/packages/github-desktop/)
 * install the desktop client
 * before initial run
-	- on Mac: open Terminal
+	- on Mac: 
+		- open Terminal
 		- in some cases, prompts to install [Xcode command line developer tools](https://developer.apple.com/download/more/): install it
 	- on Windows: 
 		- press `Win-R`, type `cmd` and press `Enter` to open a command prompt session
