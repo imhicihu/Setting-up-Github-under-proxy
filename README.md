@@ -29,4 +29,4 @@ This repo describes some steps and paths to execute [Github desktop app](https:/
 ### Who do I talk to? ###
 
 * Repo owner or admin
-     - Contact `imhicihu at gmail dot com`
+     - Contact `imhicihu` at `gmail` dot `com`
