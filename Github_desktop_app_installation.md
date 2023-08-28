@@ -1,5 +1,5 @@
 ### GitHub desktop
-![3c5f7d74-4082-11e5-856c-133cae8d342e.png](https://bitbucket.org/repo/nrpzj4/images/734357948-3c5f7d74-4082-11e5-856c-133cae8d342e.png)
+![734357948-3c5f7d74-4082-11e5-856c-133cae8d342e.png](images/734357948-3c5f7d74-4082-11e5-856c-133cae8d342e.png)
 * download the desktop client from [Github](https://desktop.github.com/)
 	- on [Mac](https://desktop.github.com/)
 	- on [Windows](https://desktop.github.com/)
