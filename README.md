@@ -1,3 +1,6 @@
+![stability-wip](images/3847436881-internal_use_stable.png)
+![status-archived](images/3278295154-status_archived.png)
+![issues-closed](images/1555006384-issues_closed.png)
 # Rationale #
 
 This repo describes some steps and paths to execute [Github desktop app](https://desktop.github.com/) inside a proxy environment.
@@ -7,7 +10,7 @@ This repo describes some steps and paths to execute [Github desktop app](https:/
 
 * Quick summary
      * Github desktop application running under a proxy server
-     ![a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png](https://bitbucket.org/repo/rp8ox5M/images/2788388409-a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png)
+     ![a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png](images/2788388409-a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png)
 
 
 ### How do I get set up? ###
@@ -30,3 +33,14 @@ This repo describes some steps and paths to execute [Github desktop app](https:/
 
 * Repo owner or admin
      - Contact `imhicihu` at `gmail` dot `com`
+### Code of Conduct
+
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/src/master/code_of_conduct.md)
+   
+### Legal ###
+
+* All trademarks are the property of their respective owners.
+
+### Copyright ###
+![88x31.png](images/3902704043-88x31.png)
+This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](http://creativecommons.org/licenses/by-sa/2.0/).
